@@ -17,6 +17,54 @@ At start I was not going to release it but after a while i though its good enoug
 
 And yes, **it's 100% free!** 😁
 
+
+## Screenshots
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/deepaksp/OpenStrm/refs/heads/main/screenshoots/Screenshot_20261103_123633.png">
+    <img src="https://raw.githubusercontent.com/deepaksp/OpenStrm/refs/heads/main/screenshoots/Screenshot_20261103_123633.png" width="30%">
+  </a>
+  <a href="https://raw.githubusercontent.com/deepaksp/OpenStrm/refs/heads/main/screenshoots/Screenshot_20261103_123755.png">
+    <img src="https://raw.githubusercontent.com/deepaksp/OpenStrm/refs/heads/main/screenshoots/Screenshot_20261103_123755.png" width="30%">
+  </a>
+  <a href="https://raw.githubusercontent.com/deepaksp/OpenStrm/refs/heads/main/screenshoots/Screenshot_20261103_124050.png">
+    <img src="https://raw.githubusercontent.com/deepaksp/OpenStrm/refs/heads/main/screenshoots/Screenshot_20261103_124050.png" width="30%">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/deepaksp/OpenStrm/refs/heads/main/screenshoots/Screenshot_20261103_125115.png">
+    <img src="https://raw.githubusercontent.com/deepaksp/OpenStrm/refs/heads/main/screenshoots/Screenshot_20261103_125115.png" width="30%">
+  </a>
+  <a href="https://raw.githubusercontent.com/deepaksp/OpenStrm/refs/heads/main/screenshoots/Screenshot_20261103_125222.png">
+    <img src="https://raw.githubusercontent.com/deepaksp/OpenStrm/refs/heads/main/screenshoots/Screenshot_20261103_125222.png" width="30%">
+  </a>
+  <a href="https://raw.githubusercontent.com/deepaksp/OpenStrm/refs/heads/main/screenshoots/Screenshot_20261103_125246.png">
+    <img src="https://raw.githubusercontent.com/deepaksp/OpenStrm/refs/heads/main/screenshoots/Screenshot_20261103_125246.png" width="30%">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/deepaksp/OpenStrm/refs/heads/main/screenshoots/Screenshot_20261103_125318.png">
+    <img src="https://raw.githubusercontent.com/deepaksp/OpenStrm/refs/heads/main/screenshoots/Screenshot_20261103_125318.png" width="30%">
+  </a>
+  <a href="https://raw.githubusercontent.com/deepaksp/OpenStrm/refs/heads/main/screenshoots/Screenshot_20261103_125332.png">
+    <img src="https://raw.githubusercontent.com/deepaksp/OpenStrm/refs/heads/main/screenshoots/Screenshot_20261103_125332.png" width="30%">
+  </a>
+  <a href="https://raw.githubusercontent.com/deepaksp/OpenStrm/refs/heads/main/screenshoots/Screenshot_20261103_125504.png">
+    <img src="https://raw.githubusercontent.com/deepaksp/OpenStrm/refs/heads/main/screenshoots/Screenshot_20261103_125504.png" width="30%">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/deepaksp/OpenStrm/refs/heads/main/screenshoots/multichannel.png">
+    <img src="https://raw.githubusercontent.com/deepaksp/OpenStrm/refs/heads/main/screenshoots/multichannel.png" width="45%">
+  </a>
+  <a href="https://raw.githubusercontent.com/deepaksp/OpenStrm/refs/heads/main/screenshoots/tv_interface_screenshot_youtube.png">
+    <img src="https://raw.githubusercontent.com/deepaksp/OpenStrm/refs/heads/main/screenshoots/tv_interface_screenshot_youtube.png" width="45%">
+  </a>
+</p>
+
 ## ✨ Features
 
 ### 📺 MultiView
