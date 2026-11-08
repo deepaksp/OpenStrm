@@ -1,10 +1,10 @@
-﻿{
-    "versionCode":  8,
-    "versionName":  "1.0.8",
+{
+    "versionCode":  9,
+    "versionName":  "1.0.9",
     "apkUrl":  "https://github.com/deepaksp/OpenStrm/raw/main/release/app-release.apk",
-    "sha256":  "d43312cdf993afd41735839d51328de780a6b72d344b694fa0199a35fecf71c7",
-    "sizeBytes":  19366373,
+    "sha256":  "47bf89bd997dff131a80d1011f225817df58689839481511f03ab72e34f230bd",
+    "sizeBytes":  19415977,
     "minSdk":  28,
-    "changelog":  "inital version .. preparing for auto update",
+    "changelog":  "added playlist via phone, auto update, more option to customize home and other bug fixes",
     "mandatory":  false
 }
