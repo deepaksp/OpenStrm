@@ -1,0 +1,10 @@
+﻿{
+    "versionCode":  8,
+    "versionName":  "1.0.8",
+    "apkUrl":  "https://github.com/deepaksp/OpenStrm/raw/main/release/app-release.apk",
+    "sha256":  "d43312cdf993afd41735839d51328de780a6b72d344b694fa0199a35fecf71c7",
+    "sizeBytes":  19366373,
+    "minSdk":  28,
+    "changelog":  "inital version .. preparing for auto update",
+    "mandatory":  false
+}
