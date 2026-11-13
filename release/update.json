@@ -5,6 +5,6 @@
     "sha256":  "f9ea3a7baec712960ef3308a8a1145638865e34f3eacd5043c62af1546c08511",
     "sizeBytes":  19792805,
     "minSdk":  28,
-    "changelog":  "",
+    "changelog":  "storage fix + detailed info, better animation and new movie/series screen",
     "mandatory":  false
 }
