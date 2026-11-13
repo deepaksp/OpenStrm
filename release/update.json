@@ -1,10 +1,10 @@
 {
-    "versionCode":  9,
-    "versionName":  "1.0.9",
+    "versionCode":  10,
+    "versionName":  "1.0.10",
     "apkUrl":  "https://github.com/deepaksp/OpenStrm/raw/main/release/app-release.apk",
-    "sha256":  "47bf89bd997dff131a80d1011f225817df58689839481511f03ab72e34f230bd",
-    "sizeBytes":  19415977,
+    "sha256":  "f9ea3a7baec712960ef3308a8a1145638865e34f3eacd5043c62af1546c08511",
+    "sizeBytes":  19792805,
     "minSdk":  28,
-    "changelog":  "added playlist via phone, auto update, more option to customize home and other bug fixes",
+    "changelog":  "",
     "mandatory":  false
 }
